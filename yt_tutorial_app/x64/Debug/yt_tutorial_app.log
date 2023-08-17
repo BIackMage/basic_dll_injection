@@ -1,3 +1,0 @@
-﻿  yt_tutorial_app.cpp
-D:\Repos\C++\yt_tutorial_dll\yt_tutorial_app\yt_tutorial_app.cpp(64,8): warning C4101: 'dwPriorityClass': unreferenced local variable
-  yt_tutorial_app.vcxproj -> D:\Repos\C++\yt_tutorial_dll\x64\Debug\yt_tutorial_app.exe
