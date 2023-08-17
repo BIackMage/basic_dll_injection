@@ -1,0 +1,4 @@
+LIBRARY yt_tutorial_dll
+
+EXPORTS
+funnyFunction @1
