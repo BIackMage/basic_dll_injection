@@ -45,5 +45,6 @@ To compile and run the project, follow these steps:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Video Tutorials for this project
-Part 1 - Creating a basic DLL and launcher application: https://youtu.be/dLksA_bbHP8
+Part 1 - Creating a basic DLL and launcher application: https://youtu.be/dLksA_bbHP8  
 Part 2 - Modifing the DLL and creating an injection application: https://youtu.be/zUtAhKk1sL8
+
